@@ -15,6 +15,7 @@ struct QuizBrain {
     
     let quiz = [
         Question(q: "Maradona fue campeón en México 86", a: "True"),
+        Question(q: "Mazatlan es mejor que Culiacan", a: "True"),
         Question(q: "Approximately one quarter of human bones are in the feet.", a: "True"),
         Question(q: "The total surface area of two human lungs is approximately 70 square metres.", a: "True"),
         Question(q: "In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.", a: "True"),
